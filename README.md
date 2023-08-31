@@ -90,4 +90,3 @@ My GitHub Profile <img src="image.png" style="height:20px; width:20px;" />: <a h
 LinkedIn Post Link 🔗: <a href="https://www.linkedin.com/posts/prince-singh-314a65187_geeksforgeeks-achivement-motivation-activity-7098506365530218497-xSH6?utm_source=share&utm_medium=member_desktop">LinkedIn Post</a>
 
 Happy Coding <span style="color: red">❤</span>
-![Alt text](image-2.png)
