@@ -57,6 +57,8 @@ _<h3>LinkedList 50 in-depth Pattern-Based Problems 👇</h3>_
 21. Sort List using Merge Sort
 22. Merge k Sorted Lists
 23. Design a Linked List with various operations
+    <a href="https://leetcode.com/problems/design-linked-list/">🔗</a>
+    <a href="https://github.com/EswarBenarjee/linked-list-50/tree/main/0707-design-linked-list" ><img src="image.png" style="height:20px; width:20px;" /></a>
 24. Intersection of Three Sorted Linked Lists
 25. Remove Linked List Elements
     <a href="https://leetcode.com/problems/remove-linked-list-elements/">🔗</a>
