@@ -59,6 +59,8 @@ _<h3>LinkedList 50 in-depth Pattern-Based Problems 👇</h3>_
 23. Design a Linked List with various operations
 24. Intersection of Three Sorted Linked Lists
 25. Remove Linked List Elements
+    <a href="https://leetcode.com/problems/remove-linked-list-elements/">🔗</a>
+    <a href="https://github.com/EswarBenarjee/linked-list-50/tree/main/0203-remove-linked-list-elements" ><img src="image.png" style="height:20px; width:20px;" /></a>
 26. Reverse Linked List II (Reverse between m and n)
 27. Swapping Nodes in a Linked List (Swap nodes without swapping data)
 28. Partition List (Arrange elements less than x before elements greater than or equal to x)
